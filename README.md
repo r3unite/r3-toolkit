@@ -1,4 +1,4 @@
-# Use:
+# Usage:
 
 ## *On Windows just run any exe file (no dependencies needed) *:
 
@@ -13,3 +13,11 @@
 - **r3-ytdlbl.py** => YouTube Download By Link (Input into terminal)
 
 ## **F. apple users....**
+
+# Install Windows:
+
+Download every file from dist folder and run when needed. (no installation required)
+
+# Install Linux:
+
+Install all dependencies, clone repo and run scripts
